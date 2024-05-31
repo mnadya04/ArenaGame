@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macbook/Desktop/ArenaGame/AreanGame/ArenaGame/ArenaGame.csproj": {}
+    "/Users/macbook/Desktop/ArenaGame/ArenaGame/ArenaGame/ArenaGame.csproj": {}
   },
   "projects": {
-    "/Users/macbook/Desktop/ArenaGame/AreanGame/ArenaGame/ArenaGame.csproj": {
+    "/Users/macbook/Desktop/ArenaGame/ArenaGame/ArenaGame/ArenaGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macbook/Desktop/ArenaGame/AreanGame/ArenaGame/ArenaGame.csproj",
+        "projectUniqueName": "/Users/macbook/Desktop/ArenaGame/ArenaGame/ArenaGame/ArenaGame.csproj",
         "projectName": "ArenaGame",
-        "projectPath": "/Users/macbook/Desktop/ArenaGame/AreanGame/ArenaGame/ArenaGame.csproj",
+        "projectPath": "/Users/macbook/Desktop/ArenaGame/ArenaGame/ArenaGame/ArenaGame.csproj",
         "packagesPath": "/Users/macbook/.nuget/packages/",
-        "outputPath": "/Users/macbook/Desktop/ArenaGame/AreanGame/ArenaGame/obj/",
+        "outputPath": "/Users/macbook/Desktop/ArenaGame/ArenaGame/ArenaGame/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/macbook/.nuget/NuGet/NuGet.Config"

@@ -1,22 +1,29 @@
 ﻿<Properties StartupConfiguration="{F58FE6F1-4519-4DD4-8BD7-5EDFF3291745}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ConsoleArenaGame PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArenaGame/GameEngine.cs">
     <Files>
-      <File FileName="ArenaGame/obj/ArenaGame.csproj.nuget.dgspec.json" Line="1" Column="1" />
-      <File FileName="ConsoleArenaGame/obj/Debug/net6.0/ConsoleArenaGame.GeneratedMSBuildEditorConfig.editorconfig" Line="1" Column="1" />
+      <File FileName="ArenaGame/Heroes/Specialist.cs" Line="1" Column="1" />
+      <File FileName="ArenaGame/GameEngine.cs" Line="55" Column="91" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ArenaGame" expanded="True" selected="True" />
+          <Node name="ArenaGame">
+            <Node name="ArenaGame" expanded="True">
+              <Node name="Heroes" expanded="True" />
+              <Node name="Weapons" expanded="True" />
+              <Node name="GameEngine.cs" selected="True" />
+            </Node>
+            <Node name="ConsoleArenaGame" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleArenaGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

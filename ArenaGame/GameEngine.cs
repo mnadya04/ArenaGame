@@ -47,14 +47,12 @@ namespace ArenaGame
                 if (probability<0.5)
                 {
                     attacker.Weapon.SpecialBoost();
-                    Console.WriteLine($"Special boost is activated for {attacker.Name}");
-
+                    Console.WriteLine($"Special boost is activated for {attacker.Name}.");
                 }
                 else
                 {
                     defender.Weapon.SpecialBoost();
-                    Console.WriteLine($"Special boost is activated for {defender.Name}");
-
+                    Console.WriteLine($"Special boost is activated for {defender.Name}.");
                 }
 
                 double attack = attacker.Attack();
